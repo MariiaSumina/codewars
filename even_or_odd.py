@@ -5,6 +5,7 @@ def even_or_odd(number):
     else:
         return "Odd"
 
-
-print(even_or_odd(2)) # even
-print(even_or_odd(1)) # odd
+# even
+print(even_or_odd(2))
+# odd
+print(even_or_odd(1))
