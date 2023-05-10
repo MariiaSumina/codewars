@@ -5,6 +5,7 @@ def even_or_odd(number):
     else:
         return "Odd"
 
+
 # even
 print(even_or_odd(2))
 # odd
